@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Digital Marketing",
+        "icon": "pe-7s-gleam",
+        "content": "In this modern era, the use of digital marketing is more than ever. Advertise exceptionally by using designs, animations, illustrations etc created by our team of adept team of designers.."
+    },
+    {
+      "id": 2,
+      "title": "Web & App Development",
+      "icon": "pe-7s-phone",
+      "content": "We offer top-notch web design services and solutions for eCommerce, Mobile, Web app and more. Design and tailor your app or website with stunning posters, animations, logos etc."
+    },
+    {
+      "id": 3,
+      "title": "Graphic Design",
+      "icon": "pe-7s-magic-wand",
+      "content": "Find all your graphic designing solutions right there. Make use of eye-catching graphics, VFX animations etc which is simply a few click away."
+    }
+]

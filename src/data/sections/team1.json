@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "/img/team/01.jpg",
+    "name": "Arneel Banik",
+    "title": "Co-Founder"
+  },
+  {
+    "id": 2,
+    "image": "/img/team/02.jpg",
+    "name": "Tanveer Arpon",
+    "title": "Co-Founder"
+  },
+  {
+    "id": 3,
+    "image": "/img/team/03.jpg",
+    "name": "Aditya Hossain",
+    "title": "Financial Analyst"
+  },
+  {
+    "id": 4,
+    "image": "/img/team/04.jpg",
+    "name": "Mohammad Shahnewaz",
+    "title": "Senior Manager"
+  },
+  {
+    "id": 5,
+    "image": "/img/team/Nafiur.png",
+    "name": "Nafiur Rahman",
+    "title": "Operations Manager"
+  },
+  {
+    "id": 6,
+    "image": "/img/team/L.png",
+    "name": "Levi Shoummo Costa",
+    "title": "Project Management"
+  },
+  {
+    "id": 7,
+    "image": "/img/team/Farzana.png",
+    "name": "Farzana Rahman",
+    "title": "Marketing Specialist"
+  },
+  {
+    "id": 8,
+    "image": "/img/team/05.jpg",
+    "name": "Anish Amartya Saha",
+    "title": "Administrative Assistant"
+  }
+]
