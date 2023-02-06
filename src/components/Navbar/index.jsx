@@ -49,21 +49,14 @@ const Navbar = ({ lr, nr, theme }) => {
 
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ml-auto">
-            <li className="nav-item dropdown" onClick={handleDropdown}>
-              <span className="nav-link " role="button">
-                Home
-              </span>
-            </li>
             <li className="nav-item">
-              <Link href="/about/about-light">
-                <a className="nav-link">About</a>
+              <Link href="/home1-dark">
+                <a className="nav-link">Home</a>
               </Link>
             </li>
-            <li className="nav-item" onClick={handleDropdown}>
-              <Link href="/works4/works4-light">
-                <span className="nav-link " role="button">
-                  portfolio
-                </span>
+            <li className="nav-item">
+              <Link href="/about-dark">
+                <a className="nav-link">About</a>
               </Link>
             </li>
             <li className="nav-item">
